@@ -1,7 +1,6 @@
 import numpy as np
 import csv
-# badges_comma = np.loadtxt('badges-five-header.txt', delimiter = ',', skiprows=1)
-# print(badges_comma.dtype)
+
 
 # def increase(id):
 #     return int(id) + 1000
